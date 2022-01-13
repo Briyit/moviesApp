@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Movies</string>
+
+    <string name="title_movie"><Data><![CDATA[<b>Title:</b>]]></Data> %1$s</string>
+    <string name="overview_movie"><Data><![CDATA[<b>Overview:</b>]]></Data> %1$s</string>
+    <string name="popularity_movie"><Data><![CDATA[<b>Popularity:</b>]]></Data> %1$s</string>
+    <string name="release_date"><Data><![CDATA[<b>Release date:</b>]]></Data> %1$s</string>
+
+    <string-array name="options_array">
+        <item>Most popular</item>
+        <item>Playing now</item>
+    </string-array>
 </resources>
